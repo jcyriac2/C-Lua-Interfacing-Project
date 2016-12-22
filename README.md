@@ -8,7 +8,7 @@ The files:
   
 2. TestRMP.cpp
   
-  An example C++ code that calls the functions in "Region.h" written in C++. 
+  An example C++ code that calls the functions in "Region.h" which is written in C. 
 
 3. Test.lua
   
